@@ -3,4 +3,4 @@ San Francisco has over 7,800 listings and over 3,700 long term and hotel listing
 
 1. Docs 
 - Final Report
-[project](https://github.com/jasmineregner/Airbnb_Capstone/blob/master/docs/Final%20Project.pdf)
+[Final Project](https://github.com/jasmineregner/Airbnb_Capstone/blob/master/docs/Final%20Project.pdf)
